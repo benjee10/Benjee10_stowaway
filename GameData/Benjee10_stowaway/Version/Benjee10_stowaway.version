@@ -1,0 +1,29 @@
+
+{
+    "NAME":"Benjee10_stowaway",
+    "URL":"https://raw.githubusercontent.com/benjee10/Benjee10_stowaway/master/GameData/Benjee10_stowaway/Version/Benjee10_stowaway.version",
+    "DOWNLOAD":"https://github.com/benjee10/Benjee10_stowaway/releases",
+    "VERSION":
+    {
+        "MAJOR":0,
+        "MINOR":1,
+        "PATCH":0,
+        "BUILD":0
+    },
+    "KSP_VERSION":
+    {
+        "MAJOR":1,
+        "MINOR":11,
+        "PATCH":2
+    },
+    "KSP_VERSION_MIN":{
+        "MAJOR":1,
+        "MINOR":8,
+        "PATCH":0
+    },
+    "KSP_VERSION_MAX":{
+        "MAJOR":1,
+        "MINOR":11,
+        "PATCH":99
+    }
+}
