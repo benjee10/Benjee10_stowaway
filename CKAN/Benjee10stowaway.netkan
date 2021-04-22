@@ -1,0 +1,38 @@
+{
+  "spec_version"        : "v1.4",
+  "identifier"          : "Benjee10stowaway",
+  "$kref"               : "#/ckan/github/benjee10/Benjee10_stowaway",
+  "abstract"            : "Extendible tethers & parts based on Stowaway movie",
+  "author"              : "benjee10",
+  "license"             : "restricted",
+  "release_status"      : "stable",
+  "$vref"               : "#/ckan/ksp-avc",
+  "resources": {
+    "homepage": "https://github.com/benjee10/Benjee10_sharedAssets",
+    "repository": "https://github.com/benjee10/Benjee10_sharedAssets"
+  },
+  "depends": [
+      { "name" : "ModuleManager" },
+      { "name" : "B9PartSwitch" },
+      { "name" : "HabTechProps" },
+      { "name" : "Benjee10sharedAssets" }
+  ],
+  "recommends": [
+      { "name" : "Waterfall" }
+  ],
+  "suggests": [
+      { "name" : "HabTech2" },
+      { "name" : "reDIRECT" },
+      { "name" : "Shuttle-Orbiter-Construction-Kit" },
+      { "name" : "Benjee10MMSEV" }
+  ],
+  "install" : [
+      { "find" : "Benjee10_stowaway",
+        "install_to" : "GameData"
+      }
+  ],
+  "tags": [
+      "library",
+      "parts"
+]
+}
