@@ -1,4 +1,4 @@
-Coriolis Space Systems 1.0.0
+Coriolis Space Systems 1.0.1
 A parts mod for Kerbal Space Program 1.11.0+ by Benjee10.
 
 CORIOLIS SPACE SYSTEMS adds parts based on the movie "Stowaway", which features a spinning artificial gravity spacecraft using a tether system. This mod adds rudimentary extendible tethers based on the stock Breaking Ground robotics system, as well as a command pod based on the movie. 
@@ -17,6 +17,11 @@ PROVIDES CONFIGS for
   - Waterfall (tested against 0.6.2)
 
 CHANGELOG
+1.0.1 
+  - Amended Decondo capsule RCS transforms for improved stability
+  - Made front window of Decondo capsule IVA clickable
+  - Adjusted kerbal portrait cam positions
+  - Added stock inventory support for pod
 1.0.0 - PUBLIC RELEASE
   - Initial release
 
